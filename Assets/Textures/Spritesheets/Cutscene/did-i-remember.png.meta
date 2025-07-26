@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: f2e4f7634352245448d39feaed132a07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 192
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: did-i-remember_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3105
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccdbb316066e7c4088412f0fce68154
+      internalID: 1886636236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3105
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59150824f4275d842ab313fb90155dc5
+      internalID: 510160413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3105
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421f68780165744db7d596946886ecd
+      internalID: 2066438382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2898
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51300b169ef378e41b5ba2e2c62101c1
+      internalID: 279008121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2898
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c0cae29d451247aa13a723ab130ae
+      internalID: -1978593967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2898
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a739788cb7660c488fe755ceb884123
+      internalID: -1411306809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2691
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8b1eefa452be44a3b0746ec0f78a1
+      internalID: -94724835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2691
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745bea3fb4040a4a9880b373619bf90
+      internalID: -1667870905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2691
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477620302af220d47814cd92e2198642
+      internalID: -263211813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2484
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec72fd9f62af7045b93c567d09f34fe
+      internalID: 1667554013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2484
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1aef860bd5ec4198224c67e624086
+      internalID: 149527085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2484
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f5629a25336d4a9cff8461489a043
+      internalID: 1753397363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2277
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a35f10252165d4c84169c00d1e7cf4
+      internalID: 1795833520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2277
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54469cf7cec68d40861c1d95851e5ea
+      internalID: -841170787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2277
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311cc5ca7aec73849ad738c44608f20c
+      internalID: 431441665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2070
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a6fa1f7ac11de40860999867dd0128
+      internalID: -118219033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2070
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17122cb9417e1d240b54f4daab42f97e
+      internalID: -2110628645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2070
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f7abc689f10ba4296b5f67126764c7
+      internalID: 688463491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1863
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6f1437916c764d99f1446630dfe1e
+      internalID: 1880603471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1863
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480f0d641022df74eab4fb56550dc409
+      internalID: 2015433030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_20
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1863
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c92602598955439046e4554df5df9
+      internalID: 366855998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db9ddd53c821e04cb4ab131c05a8f53
+      internalID: 1340109190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1656
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501b54fda44e29d46be476e875781004
+      internalID: -553453006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1656
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077f437ab34aee418f1841030c6b336
+      internalID: -990414558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b14382a70f22740a4dd2894d4b856a
+      internalID: 1426377375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1449
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bd874d05cb0c14ea614cb49ab55184
+      internalID: -1247669632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1449
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b93a00092ca984bb6110bf5b8c52de
+      internalID: 708425296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1242
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04868926d4855448affe05789ec536b
+      internalID: 314157412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1242
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6b6f4714819347b1e751d111181f4
+      internalID: 1934020385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1242
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51337491c5d311c4088d04a4f1402137
+      internalID: 1852922314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a7a703e7b196248900438e9a19b8f0
+      internalID: -1998562641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1035
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c625ee9e4388cd43b955fa613fb8289
+      internalID: -1250468555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_32
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1035
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851e36e70f2fd5a4e944673ba79c9f9c
+      internalID: -1677114748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129750c285e39f4487c3e0ac482c098
+      internalID: 242512469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_34
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 828
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f5deabaf9fc1841bcc15cf08e47a25
+      internalID: 389383146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_35
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 828
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d0e34c9834a24f8a71753ce71f310
+      internalID: 1384152610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efb0d8fb9cadba4c86b009a7ab712de
+      internalID: 1201341767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 621
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436b7ff87a6b3ef408b07f0b0c6e9b6a
+      internalID: 2130526651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 621
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08601bdd20fd4f42b9949db0e4e1662
+      internalID: -1471804882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67073a402f5a28d46a61c05c5d5d74a9
+      internalID: -577066713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_40
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 414
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b41028c3fe81dd429062afea569d93c
+      internalID: 1584919566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_41
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 414
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0fd37f1a6a83428972d3b7fd481b0
+      internalID: -835957114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8edf2d28c83e94f95d44bb71df33a8
+      internalID: 1687248663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 207
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5bb99dfd218f04fb433047d84d0f1e
+      internalID: -944946696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 207
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8333198812f7e4948989fec26746a212
+      internalID: 121236847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aeda1c721edde438a7f9011ce72ba5
+      internalID: -164173898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_46
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f41cbe8b27b049a6f1e7b62c00542
+      internalID: 542870400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: did-i-remember_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 1200
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38600815a5ac6da4db5137d4293fa699
+      internalID: 94033798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      did-i-remember_0: 1886636236
+      did-i-remember_1: 510160413
+      did-i-remember_10: 149527085
+      did-i-remember_11: 1753397363
+      did-i-remember_12: 1795833520
+      did-i-remember_13: -841170787
+      did-i-remember_14: 431441665
+      did-i-remember_15: -118219033
+      did-i-remember_16: -2110628645
+      did-i-remember_17: 688463491
+      did-i-remember_18: 1880603471
+      did-i-remember_19: 2015433030
+      did-i-remember_2: 2066438382
+      did-i-remember_20: 366855998
+      did-i-remember_21: 1340109190
+      did-i-remember_22: -553453006
+      did-i-remember_23: -990414558
+      did-i-remember_24: 1426377375
+      did-i-remember_25: -1247669632
+      did-i-remember_26: 708425296
+      did-i-remember_27: 314157412
+      did-i-remember_28: 1934020385
+      did-i-remember_29: 1852922314
+      did-i-remember_3: 279008121
+      did-i-remember_30: -1998562641
+      did-i-remember_31: -1250468555
+      did-i-remember_32: -1677114748
+      did-i-remember_33: 242512469
+      did-i-remember_34: 389383146
+      did-i-remember_35: 1384152610
+      did-i-remember_36: 1201341767
+      did-i-remember_37: 2130526651
+      did-i-remember_38: -1471804882
+      did-i-remember_39: -577066713
+      did-i-remember_4: -1978593967
+      did-i-remember_40: 1584919566
+      did-i-remember_41: -835957114
+      did-i-remember_42: 1687248663
+      did-i-remember_43: -944946696
+      did-i-remember_44: 121236847
+      did-i-remember_45: -164173898
+      did-i-remember_46: 542870400
+      did-i-remember_47: 94033798
+      did-i-remember_5: -1411306809
+      did-i-remember_6: -94724835
+      did-i-remember_7: -1667870905
+      did-i-remember_8: -263211813
+      did-i-remember_9: 1667554013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

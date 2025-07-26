@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: MuzzleFlash
+    m_Hash: 35934377
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: bullet1_muzzle_flash_0
+      m_Hash: 256794201
+      m_Sprite: {fileID: -1826665397, guid: 7448db5906019c67f9ecc815ebeb1780, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1826665397, guid: 7448db5906019c67f9ecc815ebeb1780, type: 3}
+    - m_Name: bullet1_muzzle_flash_1
+      m_Hash: 944336591
+      m_Sprite: {fileID: -416565769, guid: 7448db5906019c67f9ecc815ebeb1780, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -416565769, guid: 7448db5906019c67f9ecc815ebeb1780, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 2
+  - m_Name: Impact
+    m_Hash: 61195569
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: bullet1_impact_0
+      m_Hash: 705989408
+      m_Sprite: {fileID: 1581664180, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 1581664180, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+    - m_Name: bullet1_impact_1
+      m_Hash: 487832502
+      m_Sprite: {fileID: -1681442676, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1681442676, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+    - m_Name: bullet1_impact_2
+      m_Hash: 68872716
+      m_Sprite: {fileID: -495044610, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -495044610, guid: 6e50f2111891b5b349210f7ae0ea4dcf, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 3
+  - m_Name: Bullet
+    m_Hash: 1035941187
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: bullet1
+      m_Hash: 587823412
+      m_Sprite: {fileID: 21300000, guid: 3be96bcd2005ed8d5831ba4c37f44097, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3be96bcd2005ed8d5831ba4c37f44097, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 1
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 638420132719368221
+  m_Version: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2f8d73264067868e51823647d5fd, type: 3}
+  m_Name: Swing
+  m_EditorClassIdentifier: 
+  collectionName: 
+  audioClips:
+  - {fileID: 8300000, guid: 5aad6efc70161644ba42595cb7b45f02, type: 3}
+  - {fileID: 8300000, guid: 86889547e220adc4e805f6d05edf6d0a, type: 3}
+  - {fileID: 8300000, guid: 2cae121b107d117458ebcf2bbe5161fa, type: 3}
+  - {fileID: 8300000, guid: 3f16440639dc1e742a018f7577bf41ec, type: 3}
